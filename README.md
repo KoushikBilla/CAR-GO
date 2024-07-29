@@ -7,3 +7,9 @@ Integrated a payment portal, streamlining the payment process and ensuring secur
 Implemented a dynamic car selection feature, enabling users to choose cars based on color, model, and year.
 Developed server-side logic to handle user requests, process bookings, and interact with the database, ensuring seamless operation and data integrity.
 
+Technologies used:
+
+  Front End : Angular, Typescript, HTML, CSS, Bootstrap, Materialize
+  Backend : Spring Boot, Java, JDBC
+  Database : MySQL
+  Cloud : AWS
